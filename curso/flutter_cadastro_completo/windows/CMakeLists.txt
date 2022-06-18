@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_cadastro_completo LANGUAGES CXX)
+project(flutter_projeto_1 LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_cadastro_completo")
+set(BINARY_NAME "flutter_projeto_1")
 
 cmake_policy(SET CMP0063 NEW)
 

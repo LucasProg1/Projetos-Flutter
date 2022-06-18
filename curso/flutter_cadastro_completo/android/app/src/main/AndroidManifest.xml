@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_cadastro_completo">
+    package="com.example.flutter_projeto_1">
    <application
-        android:label="flutter_cadastro_completo"
+        android:label="flutter_projeto_1"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
